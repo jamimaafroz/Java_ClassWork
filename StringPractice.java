@@ -6,7 +6,7 @@ public class StringPractice{
     }
 
     void classifyChar(){
-                int vowelCount = 0;
+        int vowelCount = 0;
         int consonantCount = 0;
         int digitCount = 0;
         int symbolCount = 0;
